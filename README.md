@@ -1,7 +1,7 @@
 #  SoC - Tools for Data Science
 ### Team : Advait Padhye & Sameep Chattopadhyay
 ### Mentor: Dev Moxaj Desai
-## Work Plan
+### Work Done
 1. **Week 1 : Numpy & Pandas**
 2. **Week 2 : Regression & task 1 (Linear Regression)**
 3. **Week 3 : Clustering & Task 2 ( KNN)** 
