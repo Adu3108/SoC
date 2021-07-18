@@ -12,4 +12,4 @@ All the reading materials provided by our mentor pertaining to the SoC work has 
 Our Final Project was to make a *Movie Recommendation System* and that has been added to the Projects folder of this Repository.
 The movie recommendation system makes use of the KNN algoritm and we have used an open source database named *MovieLens-small* for this purpose.
 
-We are thankful to our mentor & the MnP club for providing us with an opportunity to do this SoC project.
+We are thankful to our mentor & the WnCC club for providing us with an opportunity to do this SoC project.
